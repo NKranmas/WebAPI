@@ -1,0 +1,15 @@
+{
+  "name": "testapp",
+  "version": "1.0.0",
+  "description": "Test app for Wep API class",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nicholas Kranmas",
+  "license": "ISC",
+  "dependencies": {
+    "mustache": "^3.0.1",
+    "save": "^2.3.3"
+  }
+}
